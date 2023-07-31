@@ -1,1 +1,1 @@
-# Back-to-USTHB_3D-GAME
+# Back to USTHB [3D-GAME]
