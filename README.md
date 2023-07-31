@@ -30,7 +30,7 @@ As part of this project, my primary contribution was in the 3D modeling and asse
   <img src="interior/3.png">
   <img src="interior/4.png">
   <img src="interior/5.png">
-  <img src="interior/6.png">
+  <img src="interior/9.png">
   <img src="interior/7.png">
   <img src="interior/8.png">
 </p>
